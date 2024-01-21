@@ -1,0 +1,18 @@
+#mensagem {
+    display: none;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 4px 8px;
+    color: #000000;
+}
+
+.sucesso {
+    border-color: #008000 !important;
+    background-color: #90ee90;
+}
+
+.erro {
+    border-color: #ff0000 !important;
+    background-color: #f08080;
+}
