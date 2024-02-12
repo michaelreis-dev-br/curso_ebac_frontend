@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.d-block {
+    display: block;
+}
+.d-flex {
+    display: flex;
+}
+form {
+    margin: 0 auto;
+    width: 40rem;
+}
+.gap-8 {
+    gap: 0.5rem;
+}
+h2 {
+    margin: 1rem 0 0.5rem;
+}
+input,
+button {
+    padding: 0.5rem 0.25rem;
+}
+button {
+    cursor: pointer;
+}
+.mb-16 {
+    margin-bottom: 1rem;
+}
+.mb-8 {
+    margin-bottom: 0.5rem;
+}
+.w-10 {
+    width: 10%;
+}
+.w-50 {
+    width: 50%;
+}
+.w-90 {
+    width: 90%;
+}
+.w-100 {
+    width: 100%;
+}
